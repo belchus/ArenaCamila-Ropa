@@ -153,6 +153,10 @@ display: none;
     padding: 2rem;
 }
 
+.fondo:hover{
+    transform: scale(1.1);
+}
+
 @media screen and (min-width:1280px) {
     body{
         background-color: grey;
